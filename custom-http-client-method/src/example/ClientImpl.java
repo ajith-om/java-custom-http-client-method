@@ -15,7 +15,7 @@ public class ClientImpl {
 
 	public void customhttpClientMethod() throws HttpException, IOException {
 		
-		//this is particularly a custom type with request body
+		//this is particularly a custom type with request body 
 		
 		String url = "some url";
 		String requestBody = "some request"; // json
